@@ -1,0 +1,39 @@
+img {
+    max-width:512px;
+    max-height:512px;
+    width:auto;
+    height:auto;
+}
+
+html, body {
+    height: 100%;
+    text-align:center;
+    margin: 0px;
+    padding: 0px;
+    background: #fff;
+    font-family:'Open Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    color: #fff;
+}
+#holder {
+    margin :0 auto;
+    display:inline-block;
+    width: 850px;
+}
+.left {
+    float:left;
+}
+.right {
+    float:right;
+}
+#logo {
+    text-align:center
+}
+#wrapper {
+    height:200px;
+    position: relative;
+    padding: 0em 0em 0em 0em;
+    background: #fff;
+    border: 1px solid blue;
+}
